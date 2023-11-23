@@ -7,6 +7,7 @@ This project is still a work in progress.
 Instructions:
     1. Install CircuitPython onto your RPI
     2. Download this code and place it in your RPI Pico drive
+    3. Download the adafruit HID drivers and place the adafruit_hid.keyboard and         *.keycode in your /lib/ on your RPI
     3. Enjoy :3
 
 Credits:
